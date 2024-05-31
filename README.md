@@ -1,5 +1,6 @@
 PROJETO DE PREVISÃO DE DOENÇAS CARDIOVASCULARES
 
+
 Integrantes do Grupo:
 
 Fagner de Sales Araujo
@@ -14,9 +15,11 @@ RA: 3022201251
 Ideomar Leal Sousa
 RA: 3022107423
 
+
 Descrição do Projeto:
 
 Este projeto tem como objetivo prever doenças cardiovasculares utilizando técnicas de aprendizado de máquina. O repositório contém a documentação do processo de análise e modelagem dos dados, bem como o conjunto de dados utilizado para treinamento e validação dos modelos.
+
 
 Estrutura do Repositório:
 
