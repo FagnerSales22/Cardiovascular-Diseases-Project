@@ -1,4 +1,4 @@
-Projeto de Previsão de Doenças Cardiovasculares
+PROJETO DE PREVISÃO DE DOENÇAS CARDIOVASCULARES
 
 Integrantes do Grupo:
 
